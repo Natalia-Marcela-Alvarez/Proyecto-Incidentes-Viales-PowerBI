@@ -1,4 +1,4 @@
-***Análisis de las defunciones sucedidas por accidentes de tránsito en Buenos Aires y CABA, durante el año 2017***
+***Análisis de las defunciones por accidentes de tránsito en Buenos Aires y CABA, durante el año 2017***
 
 El conocimiento y análisis de los datos de vialidad y accidentes de tránsito de años anteriores 
 resulta fundamental para anticipar patrones y prever la ocurrencia de futuros sucesos. Para los 
